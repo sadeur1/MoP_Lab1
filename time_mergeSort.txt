@@ -1,0 +1,10 @@
+Sorting time for input_100.txt: 0 seconds
+Sorting time for input_11200.txt: 0.20076 seconds
+Sorting time for input_22300.txt: 0.395851 seconds
+Sorting time for input_33400.txt: 0.672947 seconds
+Sorting time for input_44500.txt: 0.852091 seconds
+Sorting time for input_55600.txt: 1.03495 seconds
+Sorting time for input_66700.txt: 1.3991 seconds
+Sorting time for input_77800.txt: 1.64524 seconds
+Sorting time for input_88900.txt: 1.81469 seconds
+Sorting time for input_100000.txt: 1.96729 seconds
